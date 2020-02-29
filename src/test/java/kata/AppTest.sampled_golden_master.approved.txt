@@ -1,0 +1,175 @@
+[20, 10] => Statement for BigCo
+  Hamlet: $400.00 (20 seats)
+  As You Like It: $330.00 (10 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,130.00
+You earned 2 credits
+ 
+[20, 19] => Statement for BigCo
+  Hamlet: $400.00 (20 seats)
+  As You Like It: $357.00 (19 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,157.00
+You earned 3 credits
+ 
+[20, 20] => Statement for BigCo
+  Hamlet: $400.00 (20 seats)
+  As You Like It: $360.00 (20 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,160.00
+You earned 4 credits
+ 
+[20, 21] => Statement for BigCo
+  Hamlet: $400.00 (20 seats)
+  As You Like It: $468.00 (21 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,268.00
+You earned 4 credits
+ 
+[20, 30] => Statement for BigCo
+  Hamlet: $400.00 (20 seats)
+  As You Like It: $540.00 (30 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,340.00
+You earned 6 credits
+ 
+[29, 10] => Statement for BigCo
+  Hamlet: $400.00 (29 seats)
+  As You Like It: $330.00 (10 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,130.00
+You earned 2 credits
+ 
+[29, 19] => Statement for BigCo
+  Hamlet: $400.00 (29 seats)
+  As You Like It: $357.00 (19 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,157.00
+You earned 3 credits
+ 
+[29, 20] => Statement for BigCo
+  Hamlet: $400.00 (29 seats)
+  As You Like It: $360.00 (20 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,160.00
+You earned 4 credits
+ 
+[29, 21] => Statement for BigCo
+  Hamlet: $400.00 (29 seats)
+  As You Like It: $468.00 (21 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,268.00
+You earned 4 credits
+ 
+[29, 30] => Statement for BigCo
+  Hamlet: $400.00 (29 seats)
+  As You Like It: $540.00 (30 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,340.00
+You earned 6 credits
+ 
+[30, 10] => Statement for BigCo
+  Hamlet: $400.00 (30 seats)
+  As You Like It: $330.00 (10 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,130.00
+You earned 2 credits
+ 
+[30, 19] => Statement for BigCo
+  Hamlet: $400.00 (30 seats)
+  As You Like It: $357.00 (19 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,157.00
+You earned 3 credits
+ 
+[30, 20] => Statement for BigCo
+  Hamlet: $400.00 (30 seats)
+  As You Like It: $360.00 (20 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,160.00
+You earned 4 credits
+ 
+[30, 21] => Statement for BigCo
+  Hamlet: $400.00 (30 seats)
+  As You Like It: $468.00 (21 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,268.00
+You earned 4 credits
+ 
+[30, 30] => Statement for BigCo
+  Hamlet: $400.00 (30 seats)
+  As You Like It: $540.00 (30 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,340.00
+You earned 6 credits
+ 
+[31, 10] => Statement for BigCo
+  Hamlet: $410.00 (31 seats)
+  As You Like It: $330.00 (10 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,140.00
+You earned 3 credits
+ 
+[31, 19] => Statement for BigCo
+  Hamlet: $410.00 (31 seats)
+  As You Like It: $357.00 (19 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,167.00
+You earned 4 credits
+ 
+[31, 20] => Statement for BigCo
+  Hamlet: $410.00 (31 seats)
+  As You Like It: $360.00 (20 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,170.00
+You earned 5 credits
+ 
+[31, 21] => Statement for BigCo
+  Hamlet: $410.00 (31 seats)
+  As You Like It: $468.00 (21 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,278.00
+You earned 5 credits
+ 
+[31, 30] => Statement for BigCo
+  Hamlet: $410.00 (31 seats)
+  As You Like It: $540.00 (30 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,350.00
+You earned 7 credits
+ 
+[40, 10] => Statement for BigCo
+  Hamlet: $500.00 (40 seats)
+  As You Like It: $330.00 (10 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,230.00
+You earned 12 credits
+ 
+[40, 19] => Statement for BigCo
+  Hamlet: $500.00 (40 seats)
+  As You Like It: $357.00 (19 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,257.00
+You earned 13 credits
+ 
+[40, 20] => Statement for BigCo
+  Hamlet: $500.00 (40 seats)
+  As You Like It: $360.00 (20 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,260.00
+You earned 14 credits
+ 
+[40, 21] => Statement for BigCo
+  Hamlet: $500.00 (40 seats)
+  As You Like It: $468.00 (21 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,368.00
+You earned 14 credits
+ 
+[40, 30] => Statement for BigCo
+  Hamlet: $500.00 (40 seats)
+  As You Like It: $540.00 (30 seats)
+  Othello: $400.00 (20 seats)
+Amount owed is $1,440.00
+You earned 16 credits
+ 
